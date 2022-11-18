@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+overflow: hidden;
+background-image: url(images/bg-intro-desktop.png);
+background-color: rgb(245, 141, 141);
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+.top {
+position: relative;
+
+
+}
+
+.informações {
+position: relative;
+color: white;
+left:5vh;
+bottom: 65vh;
+left: 15vh;
+font-size: 6vh;
+}
+
+.texto {
+    position: relative;
+    left: 5vh;
+    color: white;
+    bottom: 62vh;
+    width: 33vw;
+    height:15vh;
+    left: 15vh;
+    font-size: 2vh;
+}
+
+.try {
+    position: relative;
+    text-align: center;
+    bottom: 2vh;
+    width: 26vw;
+    height: 4vh;
+    left: 38vh;
+    color:white;
+    background-color: rgb(112, 84, 189);
+    border-radius: 1vh 1vh  1vh  1vh;
+    padding: 2vh;
+    padding-bottom: 4vh;
+    
+
+}
+
+.espaco {
+    position: relative;
+    left: 44vh;
+    background-color: white;
+    width: 26vw;
+    height: 63vh;
+    top: 1vh;
+    border-radius: 1vh 1vh 1vh 1vh;
+
+}
+
+.Barra {
+    position: relative;
+    left:52vh;
+    bottom: 25vh;
+    color:white;
+    background-color: rgb(38, 184, 111);
+    width:18vw;
+    height: 4vh;
+    bottom: 12vh;
+    border-radius: 1vh 1vh 1vh 1vh;
+}
+
+.texto_tudo{
+    height: 15vh;
+}
+
+.fortudo {
+    position: relative;
+    left: 63vh;
+    bottom:107vh;
+}
+
+form {
+    position: relative;
+    bottom: 10h;
+    background-color: white;
+    width: 26vw;
+    height:45vh;
+    left: 38vh;
+    border-radius: 1vh 1vh 1vh 1vh;
+    margin-top: 20px;
+    
+    }
+
+.preenchimento {
+    position: relative;
+    width: 21vw;
+    height: 5vh;
+    top: 2vh;
+    padding: 10px;
+    margin: 8px;
+    
+}
+
+.claim {
+    position: relative;
+    width: 21vw;
+    height: 5vh;
+    top: 4vh;
+    text-align: center;
+    color: white;
+    background-color: rgb(38, 184, 111);
+    border: none;
+    border-radius: 2px 2px 2px 2px;
+
+}
+
+.terms {
+    position: relative;
+    top: 7vh;
+    width: 63vw;
+    right: 34vh;
+    font-size: smaller;
+    color: rgb(115, 115, 116);
+    right: 37vh;
+}
